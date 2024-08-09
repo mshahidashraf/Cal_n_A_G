@@ -20,3 +20,12 @@ Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;"
 |14| Infinite Sequences and Series, Introduction to Sequences Infinite series, The integral test | |9.1 (1,7-30) 9.3(1-14) 9.4(3-24) |
 |15| Comparison tests, Absolute convergence, The ratio and root test |Q3| 9.5 (25-49)|
 |16| Revision|||
+### Assessment Instruments with Weights (homework, quizzes, midterms, final, programming assignments, lab work, etc.)
+| Assessment         | Weights | 
+|--------------|--------------|
+| Quizzes + Assignments                  | 20% |
+|Mid-term Exams                          | 30% |
+|End-term Exam (Final)                   | 50% |
+
+### Course Books
+- Calculus Early Transcendental 11 th Edition
