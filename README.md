@@ -16,4 +16,7 @@ Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;"
 |10| Techniques of integration, Basic Integration, Integration by parts Reduction formula, Trigonometric substitution||7.1(1-30), 7.2(1-30,69-71) 7.4(1-25,37-48)|
 |11| Mid 2-Exam | | |
 |12| Area bounded by the curves. Volume by Disk and washer method ,Length of Plane curve|5.1(1-14), 5.2(1-20) 5.4(3-8,25-28)| 
-|13| Integration of Rational function by Partial fraction, $` u= \tan (x/2) `$  substitution, Improper integrals.
+|13| Integration of Rational function by Partial fraction, $` u= \tan \frac{x}{2} `$  substitution, Improper integrals.|A3| 7.5(9-30),7.6(65-70), 7.8(3-32)|
+|14| Infinite Sequences and Series, Introduction to Sequences Infinite series, The integral test | |9.1 (1,7-30) 9.3(1-14) 9.4(3-24) |
+|15| Comparison tests, Absolute convergence, The ratio and root test |Q3| 9.5 (25-49)|
+|16| Revision|||
