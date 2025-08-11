@@ -2,7 +2,7 @@
 ## Calculus and Analytical Geometry
 Email : <a href="mailto:shahid.ashraf@nu.edu.pk" style=" word-wrap: break-word;" target="_blank">shahid.ashraf@nu.edu.pk</a></p>
 Instructor Profile : <a href="https://mshahidashraf.github.io/" style=" word-wrap: break-word;" target="_blank">Muhammad Shahid Ashraf</a></p>
-<a href="Course outline_.pdf" download="course_content.pdf">download  Course Outline in pdf here</a>
+<a href="" download="course_content.pdf">download  Course Outline in pdf here</a>
 
 
 | Week         | Contents/Topics | Tools | Exercises/Questions |
