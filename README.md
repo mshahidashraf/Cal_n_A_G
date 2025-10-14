@@ -15,7 +15,7 @@ Instructor Profile : <a href="https://mshahidashraf.github.io/" style=" word-wra
 |5| Mid 1-Exam | | | |
 |6| Derivative of trigonometric and logarithm function Chain rule,Implicit differentiation. Indeterminate forms, L’ Hopital Rule||2.6(7-40), 2.7(3-18,27-30) 6.5(7-43)||
 |7| Application of derivatives, Role’s and Mean Value’s Theorem| A2| 2.8(10-20), 3.8(1-8)| |
-|8| Concavity, Increasing and Decreasing. Relative Extreme (1st and 2nd derivative test) Absolute Maxima and Minima| Q2| 3.1(15-26) 3.2(7-12,25-32)  3.4(7-28)| |
+|8| Concavity, Increasing and Decreasing. Relative Extreme (1st and 2nd derivative test) Absolute Maxima and Minima| Q2| 3.1(15-26) 3.2(7-12,25-32)  3.4(7-16)| |
 |9| Riemann sums|| 4.4(35-48)| |
 |10| Techniques of integration, Basic Integration, Integration by parts Reduction formula, Trigonometric substitution||7.1(1-30), 7.2(1-30,69-71) 7.4(1-25,37-48)| |
 |11| Mid 2-Exam | | | |
